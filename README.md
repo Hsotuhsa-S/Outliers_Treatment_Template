@@ -36,7 +36,7 @@ Here is a brief example of how to use the template:
 4. **Treat Outliers**: Apply transformations, capping, or removal techniques.
 5. **Save Results**: Save the cleaned dataset to a new file.
 
-![Workflow](relative/path/to/OutlierTreatment.jpg)
+![Workflow](OutlierTreatment.jpg)
 
 ### Next Steps:
 1. Convert `Outlier Treatment_Flowchart.pdf` to an image format (e.g., PNG).
